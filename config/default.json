@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "qwerty secret",
+  "mongoURI": "mongodb+srv://serg123:serg123@devcamp-ta6ky.mongodb.net/test?retryWrites=true&w=majority",
+  "passwordLength": 6
+}
